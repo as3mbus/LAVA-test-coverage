@@ -1,6 +1,8 @@
 requests
-re
 flask
 flask-cors
 gevent
 flask_api
+terminaltables
+tabulate
+colorclass
